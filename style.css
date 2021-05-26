@@ -1,0 +1,39 @@
+#container {
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#logo {
+  width: 27%;
+}
+
+#animejs {
+  width: 100%;
+}
+
+#animejs-path {
+  stroke-dasharray: 600;
+}
+
+#separator {
+  width: 30%;
+  height: 4px;
+  border-radius: 10px;
+  background-color: black;
+}
+
+#subtitle {
+  padding-top: 2ch;
+  font-family: "Lato", sans-serif;
+  font-size: 2em;
+}
